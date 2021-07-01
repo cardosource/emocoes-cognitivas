@@ -58,4 +58,13 @@ fonte:
 
 
   
+[eletrica ufpr](http://www.eletrica.ufpr.br/ufpr2/professor/36/TE808/5-NaiveBayes-AM.pdf)   
+[organicadigital.com](https://www.organicadigital.com/blog/algoritmo-de-classificacao-naive-bayes/)
+
+  
+
+
+ 
+
+![GitHub](https://img.shields.io/badge/python-v3.9.5-blue) ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
 
