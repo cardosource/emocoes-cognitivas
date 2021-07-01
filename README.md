@@ -44,16 +44,18 @@ Demostra que ha um vinculo longe ou perto criando uma peseuda confiança.
 Após uma explicação vaga e demostrar que  pode confiar por possuir alguem proximo pede um contato.
 
 
-API:  https://www.nltk.org/
+API:  
+[nltk.org](https://www.nltk.org/)
+
+
 
 
 fonte:
-https://ibdfam.org.br/index.php/noticias/7853/Brasil+teve+648+casos+de+feminic%C3%ADdio+no+primeiro+semestre+de+2020#:~:text=Brasil%20teve%20648%20casos%20de%20feminic%C3%ADdio%20no%20primeiro%20semestre%20de%202020,-19%2F10%2F2020&text=Ao%20menos%20648%20mulheres%20foram,a%20junho%2C%20no%20ano%20passado.   
 
-https://dossies.agenciapatriciagalvao.org.br/dados-e-fontes/fontes/
+[ibdfam.org](https://ibdfam.org.br/index.php/noticias/7853/Brasil+teve+648+casos+de+feminic%C3%ADdio+no+primeiro+semestre+de+2020#:~:text=Brasil%20teve%20648%20casos%20de%20feminic%C3%ADdio%20no%20primeiro%20semestre%20de%202020,-19%2F10%2F2020&text=Ao%20menos%20648%20mulheres%20foram,a%20junho%2C%20no%20ano%20passado)  
+[ibdfam.org](https://ibdfam.org.br/index.php/noticias/7853/Brasil+teve+648+casos+de+feminic%C3%ADdio+no+primeiro+semestre+de+2020#:~:text=Brasil%20teve%20648%20casos%20de%20feminic%C3%ADdio%20no%20primeiro%20semestre%20de%202020,-19%2F10%2F2020&text=Ao%20menos%20648%20mulheres%20foram,a%20junho%2C%20no%20ano%20passado)  
+[agenciapatriciagalvao.org](https://dossies.agenciapatriciagalvao.org.br/dados-e-fontes/fontes/)  
 
-https://www.organicadigital.com/blog/algoritmo-de-classificacao-naive-bayes/
 
-http://www.eletrica.ufpr.br/ufpr2/professor/36/TE808/5-NaiveBayes-AM.pdf
-
+  
 
