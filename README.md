@@ -66,5 +66,5 @@ fonte:
 
  
 
-![](https://img.shields.io/badge/python-3.9-informational?style=flat&logoColor=white&color=blue) ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
-![](https://img.shields.io/badge/nltk-3.9-informational?style=flat&logoColor=white&color=blue)
+![](https://img.shields.io/badge/python-3.9-informational?style=flat&logoColor=white&color=blue) ![](https://img.shields.io/badge/nltk- 3.6.2-informational?style=flat&logoColor=white&color=blue) ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
+
