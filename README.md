@@ -19,7 +19,7 @@ Aprendizagem de comportamentos repetitivos.
 
 Observa o comportamento que ocorreu e extrair um padrão recorrente que antevê um novo acontecimento usando o classificador Naive Bayes.
 
-**ATENÇÃO**  
+`ATENÇÃO`  
 A base de dados esta incompleta, o padrão de uma aproximação vareia assim como a intenção.  
 O acerto tanto quanto erro na classificação pode afetar o resultado para mais ou menos.  
 Todas as frases seguem o padrão exemplo:
