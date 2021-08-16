@@ -29,10 +29,14 @@ Todas as frases seguem o padrão exemplo:
 3 - Voce poderia passar teu numero para gente conversar melhor
 
 contida na base de dados:  
-Classe   
-_Suspeito_ : vi, perfil, interessado, fiquei = propabilidade de escrever  
-_Duvida_   : amigo, comun, conhecido, primo  = ""  
-_Medo_     : número, conversar, passar, poderia = ""
+## Classe
+
+| Sentimentos       | Perguntas                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Suspeito          | vi, perfil, interessado, fiquei |
+| Duvida            | amigo, comun, conhecido, primo |
+| Medo              | número, conversar, passar, poderia|
+
 
 - Frase 1:
 A sempre uma explicação vaga quando perguntado onde encontrou o contato.
