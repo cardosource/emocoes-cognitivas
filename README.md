@@ -49,6 +49,7 @@ Após uma explicação vaga e demostrar que  pode confiar por possuir alguem pro
 
 
 API:  
+
 [nltk.org](https://www.nltk.org/)
 
 
