@@ -9,12 +9,10 @@ Esse estudo de cunho pessoal basea em noticias estatisticas e relatos de pessoas
 de individuos em manter relações ou pedidos a ser atendidos por redes sociais.    
 Não sendo uma referência cabal mas sim uma compreenção dessa aproximação maliciosa que atraves de alguns padrões.
 
-O algoritimo processa informações pré definidas e apresenta uma avaliação emocional baseado na reação lógica da vítima.
 
-Teorema  Bayes:
-
+## Teorema  Bayes
 Aprendizagem de comportamentos repetitivos.
-
+O algoritimo processa informações pré definidas e apresenta uma avaliação emocional baseado na reação lógica da vítima.
 Observa o comportamento que ocorreu e extrair um padrão recorrente que antevê um novo acontecimento usando o classificador Naive Bayes.
 
 `ATENÇÃO`  
