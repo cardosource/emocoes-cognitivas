@@ -24,9 +24,13 @@ A base de dados esta incompleta, o padrão de uma aproximação vareia assim com
 O acerto tanto quanto erro na classificação pode afetar o resultado para mais ou menos.  
 Todas as frases seguem o padrão exemplo:
 
+
+```
 1 - Eu vi teu perfil e fiquei interessado   
 2 - Percebi que tinhamos um amigo em comun,esse amigo é um conhecido de um primo  
 3 - Voce poderia passar teu numero para gente conversar melhor
+```
+
 
 contida na base de dados:  
 ## Classe
