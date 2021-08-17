@@ -1,6 +1,4 @@
-
-
-Introdução:
+# Abuso
 
 De 2020 a meados do ano de 2021 casos de assédio e violência moral e física ao genêro teve um aumento exponencial, fatores agravantes
 pontencializaram essa causa a qual manteve em alta mediante a uma crise no sistema público de saude no Brasil.                         
