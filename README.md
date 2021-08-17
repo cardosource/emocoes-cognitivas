@@ -7,7 +7,7 @@ proposta a salvar vidas de forma benigna  e o fator emocional em pessoas propici
 que facilitou  aproximação de uma porcentagem de indivíduos que reconhecem essa fragilidade e a explora de todas as maneiras.     
 Esse estudo de cunho pessoal basea em noticias estatisticas e relatos de pessoas que sentiu-se acuada(o) com a persistência
 de individuos em manter relações ou pedidos a ser atendidos por redes sociais.    
-Não sendo uma referência cabal mas sim uma compreenção dessa aproximação maliciosa que través de alguns padrões.
+Não sendo uma referência cabal mas sim uma compreenção dessa aproximação maliciosa que atraves de alguns padrões.
 
 O algoritimo processa informações pré definidas e apresenta uma avaliação emocional baseado na reação lógica da vítima.
 
